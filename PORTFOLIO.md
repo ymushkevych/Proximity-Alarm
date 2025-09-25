@@ -27,6 +27,8 @@ Yarema Mushkevych
 
 ## Fritzing Style
 
+[github.com/ymushkevych/Proximity-Alarm/blob
+
 ## Schematic
 
 ## Parts List
