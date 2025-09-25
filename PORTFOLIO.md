@@ -27,7 +27,7 @@ Yarema Mushkevych
 
 ## Fritzing Style
 
-[github.com/ymushkevych/Proximity-Alarm/blob
+[[https://www.github.com/ymushkevych/Proximity-Alarm/blob/files/fritzing.png]]
 
 ## Schematic
 
