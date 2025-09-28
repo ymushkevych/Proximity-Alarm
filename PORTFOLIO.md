@@ -24,11 +24,11 @@ Yarema Mushkevych
 
 ## Fritzing Style
 
-![Fritzing Diagram](github.com/ymushkevych/Proximity-Alarm/blob/main/fritzing_diagram.png)
+![Fritzing Diagram](https://github.com/ymushkevych/Proximity-Alarm/blob/main/fritzing_diagram.png)
 
 ## Schematic
 
-![Schematic](github.com/ymushkevych/Proxmity-Alarm/blob/main/schematic.png)
+![Schematic](https://github.com/ymushkevych/Proxmity-Alarm/blob/main/schematic.png)
 
 ## Parts List
 
@@ -45,7 +45,7 @@ Yarema Mushkevych
 
 # Program
 
-![Program](github.com/ymushkevych/Proxmity-Alarm/blob/main/arduino_code.png)
+![Program](https://github.com/ymushkevych/Proxmity-Alarm/blob/main/arduino_code.png)
 
 # Video
 
