@@ -28,7 +28,7 @@ Yarema Mushkevych
 
 ## Schematic
 
-![Schematic](https://github.com/ymushkevych/Proxmity-Alarm/blob/main/schematic.png)
+![Schematic](https://github.com/ymushkevych/Proximity-Alarm/blob/main/wiring_diagram.png)
 
 ## Parts List
 
@@ -45,7 +45,7 @@ Yarema Mushkevych
 
 # Program
 
-![Program](https://github.com/ymushkevych/Proxmity-Alarm/blob/main/arduino_code.png)
+![Program](https://github.com/ymushkevych/Proximity-Alarm/blob/main/arduino_code.png)
 
 # Video
 
