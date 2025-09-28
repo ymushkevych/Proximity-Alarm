@@ -27,13 +27,17 @@ Yarema Mushkevych
 
 ## Fritzing Style
 
-![Fritzing Diagram](github.com/ymushkevych/Proximity-Alarm/blob/files/fritzing.png)
+![Fritzing Diagram](github.com/ymushkevych/Proximity-Alarm/blob/fritzing.png)
 
 ## Schematic
+
+![Schematic](github.com/ymushkevych/Proxmity-Alarm/blob/schematic.png)
 
 ## Parts List
 
 # Program
+
+
 
 # Video
 
