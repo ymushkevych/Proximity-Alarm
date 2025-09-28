@@ -61,30 +61,30 @@ Yarema Mushkevych
 
 ## How did you breakdown this project and begin your design?
 
-  I started by determining what parts I could use and how they would be wired. I knew from the start that I wanted to use an LCD display, so I did research on how to code and wire those up pretty early on.
-  Throughout the project, I focused on the important stuff — the actual sensor, the buzzer — first, and added in the more niche features later on. After all, what good is a button if there's no alarm to turn off?
+  - I started by determining what parts I could use and how they would be wired. I knew from the start that I wanted to use an LCD display, so I did research on how to code and wire those up pretty early on.
+  - Throughout the project, I focused on the important stuff — the actual sensor, the buzzer — first, and added in the more niche features later on. After all, what good is a button if there's no alarm to turn off?
   If I was struggling with something, I would set it aside and work on another part of the project
 
 ## What worked/did not work as you got going?
 
-  The code for the button was really hard to get right, but I pushed through in the end
-  I wanted to do some extra stuff with the LCD display but couldn't figure some stuff out, so I ended up simplifying my plan. 
+  - The code for the button was really hard to get right, but I pushed through in the end
+  - I wanted to do some extra stuff with the LCD display, but couldn't figure some stuff out, so I ended up simplifying my plan. 
 
 ##  What challenges did you overcome?
 
-  As I said, the button code was pretty hard to get working, so that was definetely a challenge
-  It also took me some time to get used to c++ notation and coding in c++
+  - As I said, the button code was pretty hard to get working, so that was definitely a challenge
+  - It also took me some time to get used to c++ notation and coding in c++
 
 ## What would you do differently? 
 
-  I'd definetly expand on the LCD display, maybe have it print out a bit more info
-  I'd also see if I could simplify the wiring, because it's honestly quite a mess to navigate when you need to troubleshoot stuff. 
+  - I'd definitely expand on the LCD display, maybe have it print out a bit more info
+  - I'd also see if I could simplify the wiring, because it's honestly quite a mess to navigate when you need to troubleshoot stuff. 
 
 # Citations
 
 - Coded in and tested using the Desktop IDE for Arduino Uno
 - Diagrams and Schematics designed in TinkerCad
-- Code for the distance sensor was taken from the arduino webpage
+- Code for the distance sensor was taken from the Arduino webpage
 - The video was edited using Google Videos
 
 
