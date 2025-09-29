@@ -53,12 +53,6 @@ Yarema Mushkevych
 
 # Reflection
 
-
-    How did you breakdown this project and begin your design?
-    What worked/did not work as you got going?
-    What challenges did you overcome?
-    What would you do differently? 
-
 ## How did you breakdown this project and begin your design?
 
   - I started by determining what parts I could use and how they would be wired. I knew from the start that I wanted to use an LCD display, so I did research on how to code and wire those up pretty early on.
